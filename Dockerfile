@@ -1,5 +1,5 @@
 # Base image
-FROM chorss/docker-pgadmin4:3.5
+FROM chorss/docker-pgadmin4:3.6
 
 # Base dependencies
 RUN apk add --no-cache \

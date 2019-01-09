@@ -1,5 +1,5 @@
 # Base image
-FROM fenglc/pgadmin4:2.1-alpine
+FROM chorss/docker-pgadmin4:3.6
 
 # Base dependencies
 RUN apk add --no-cache \
